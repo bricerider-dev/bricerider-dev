@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-
+- I'm **Brice KENFACK**, _Full Stack Developper_ `Django/React`
 - 🔭 I’m currently working on **mobile app**
 - 🌱 I’m currently learning **Cloud an DevOps engineering**
 
